@@ -1,2 +1,2 @@
 # GitHub-Intro
-A repository demonstrating full version control and collaboration workflows.
+**GitHub-Intro** is a repository demonstrating full version control and collaboration workflows between the repository owner and collaborators.
